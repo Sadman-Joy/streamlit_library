@@ -13,3 +13,10 @@ It covers everything from basic layout to displaying data, charts, widgets, and 
 - 🎛️ **User Input**: Text input, sliders, buttons
 - 🖼️ **Displaying Images**: With error handling
 - 🧩 **Layout Features**: Using columns and sidebar
+
+## Install dependencies
+pip install streamlit pandas numpy matplotlib pillow
+
+## Run the app
+streamlit run streamlit_app.py
+
