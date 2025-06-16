@@ -1,8 +1,15 @@
-##Here's a complete Python file that introduces the Streamlit library — a powerful and easy-to-use tool for building web apps with Python. This script includes detailed comments to help you understand how each part works.
+# 🌐 Streamlit Demo App
 
-##✅ What you'll learn in this script:
-##Streamlit basics: displaying text, data, and widgets
-##Plotting charts
-##Handling user input
-##Displaying images
-##Using layout features (columns, sidebar)
+This is a beginner-friendly web application built with [Streamlit](https://streamlit.io/), designed to introduce the fundamentals of interactive app development in Python.  
+It covers everything from basic layout to displaying data, charts, widgets, and images.
+
+---
+
+## ✅ What You'll Learn
+
+- 📄 **Streamlit Basics**: Displaying text and markdown
+- 📊 **Data Display**: Showing DataFrames and tables
+- 📈 **Plotting Charts**: Line charts using random data
+- 🎛️ **User Input**: Text input, sliders, buttons
+- 🖼️ **Displaying Images**: With error handling
+- 🧩 **Layout Features**: Using columns and sidebar
